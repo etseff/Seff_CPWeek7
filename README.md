@@ -1,13 +1,36 @@
 # Seff_CPWeek7
-CodePath Week 7 Assignment
+# Project 7 - WordPress Pentesting
 
-## Vulnerability 1: XXS
-The XXS vulnerability was expoited through
+Time spent: **X** hours spent in total
 
+> Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
-## Vulnerability 2: SQLI
-SQL injection was used to exploit the WordPress website through
+## Pentesting Report
 
-
-## Vulnerability 3: CSRF
-CSRF was used to maliciously exploit the WordPress site through 
+1. (Required) Vulnerability Name or ID
+  - [ ] Summary: 
+    - Vulnerability types:
+    - Tested in version:
+    - Fixed in version: 
+  - [ ] GIF Walkthrough: 
+  - [ ] Steps to recreate: 
+  - [ ] Affected source code:
+    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+1. (Required) Vulnerability Name or ID
+  - [ ] Summary: 
+    - Vulnerability types:
+    - Tested in version:
+    - Fixed in version: 
+  - [ ] GIF Walkthrough: 
+  - [ ] Steps to recreate: 
+  - [ ] Affected source code:
+    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+1. (Required) Vulnerability Name or ID
+  - [ ] Summary: 
+    - Vulnerability types:
+    - Tested in version:
+    - Fixed in version: 
+  - [ ] GIF Walkthrough: 
+  - [ ] Steps to recreate: 
+  - [ ] Affected source code:
+    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
