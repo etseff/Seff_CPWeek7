@@ -34,11 +34,11 @@ Time spent: **X** hours spent in total
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1]()
-4.  Authenticated Stored Cross-Site Scripting via Image Filename
-  - [ ] Summary: There was no sanitation in image filenames in WP version 4.2
+4.  Authenticated Stored Cross-Site Scripting
+  - [ ] Summary: There was no sanitation in posts in WP version 4.2
     - Vulnerability types: XSS
     - Tested in version: 4.2
-    - Fixed in version: 4.2.13
+    - Fixed in version: 4.2.3
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
