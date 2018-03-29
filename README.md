@@ -11,7 +11,7 @@ Time spent: **X** hours spent in total
   - [ ] Summary: There was no sanitation in image filenames in WP version 4.2
     - Vulnerability types: XSS
     - Tested in version: 4.2
-    - Fixed in version: 4.2.13
+    - Fixed in version: 4.2.10
   - [ ] GIF Walkthrough: ![](https://github.com/etseff/Seff_CPWeek7/blob/master/NA1.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
@@ -33,7 +33,7 @@ Time spent: **X** hours spent in total
   - [ ] GIF Walkthrough: ![](https://github.com/etseff/Seff_CPWeek7/blob/master/NA3.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
-    - [Link 1]()
+    - [Link 1](https://klikki.fi/adv/wordpress2.html)
 4.  Authenticated Stored Cross-Site Scripting
   - [ ] Summary: There was no sanitation in posts in WP version 4.2
     - Vulnerability types: XSS
@@ -42,4 +42,4 @@ Time spent: **X** hours spent in total
   - [ ] GIF Walkthrough: ![](https://github.com/etseff/Seff_CPWeek7/blob/master/NA4.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
-    - [Link 1](https://github.com/WordPress/WordPress/commit/c9e60dab176635d4bfaaf431c0ea891e4726d6e0)
+    - [Link 1](https://klikki.fi/adv/wordpress3.html)
