@@ -25,15 +25,15 @@ Time spent: **X** hours spent in total
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8)
-3. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
+3. Unauthenticated Stored Cross-Site Scripting
+  - [ ] Summary: Super large comments leave a vulnerability for cross-site scripting
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.1 
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1]()
 4.  Authenticated Stored Cross-Site Scripting via Image Filename
   - [ ] Summary: There was no sanitation in image filenames in WP version 4.2
     - Vulnerability types: XSS
