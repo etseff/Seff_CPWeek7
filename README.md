@@ -21,7 +21,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types:
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: ![](https://github.com/etseff/Seff_CPWeek7/blob/master/NA2.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8)
@@ -30,7 +30,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.1 
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: ![](https://github.com/etseff/Seff_CPWeek7/blob/master/NA3.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1]()
@@ -39,7 +39,7 @@ Time spent: **X** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: ![](https://github.com/etseff/Seff_CPWeek7/blob/master/NA4.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/c9e60dab176635d4bfaaf431c0ea891e4726d6e0)
