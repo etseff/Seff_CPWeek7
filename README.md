@@ -13,7 +13,7 @@ Time spent: **X** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.10
   - [ ] GIF Walkthrough: ![](https://github.com/etseff/Seff_CPWeek7/blob/master/NA1.gif)
-  - [ ] Steps to recreate: Upload a new image, change the filename to script, post the image and the script will run.
+  - [ ] Steps to recreate: Upload a new image, change the filename to any script, post the image and the script will run.
   - [ ] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/c9e60dab176635d4bfaaf431c0ea891e4726d6e0)
 2.  Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL embeds
@@ -22,7 +22,7 @@ Time spent: **X** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
   - [ ] GIF Walkthrough: ![](https://github.com/etseff/Seff_CPWeek7/blob/master/NA2.gif)
-  - [ ] Steps to recreate: Create a new post, add a YouTube link, but insert script instead of the end of the unique URL for a real video. Press upload and the script will run.
+  - [ ] Steps to recreate: Create a new post and add the beginning of a YouTube link, with script instead of the end of the unique URL for a real video. Then, highlight the link and press the link button. Press upload and the script will run.
   - [ ] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8)
 3. Unauthenticated Stored Cross-Site Scripting
@@ -31,7 +31,7 @@ Time spent: **X** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1 
   - [ ] GIF Walkthrough: ![](https://github.com/etseff/Seff_CPWeek7/blob/master/NA3.gif)
-  - [ ] Steps to recreate: Post a comment as a site visitor. Include script in the comment and an extremely large amount of text. Post the comment and the script will run.
+  - [ ] Steps to recreate: Post a comment as a site visitor with over 64 kb of text- in the example, a large chunk of text was copied from a random website. Include desired script in the comment and post the comment and the script will run.
   - [ ] Affected source code:
     - [Link 1](https://klikki.fi/adv/wordpress2.html)
 4.  Authenticated Stored Cross-Site Scripting
